@@ -1,0 +1,13 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin:0;
+  background-color: #424242;
+}
+.titulo {
+  margin : 10px 200px;
+  background-color: #FF9800;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  text-shadow: 100px;
+}
