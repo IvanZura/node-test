@@ -1,0 +1,27 @@
+{
+  "name": "test_node",
+  "version": "0.1.1",
+  "description": "Testeando nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanZura/node-test.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "ecma"
+  ],
+  "author": "Ivan Zura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvanZura/node-test/issues"
+  },
+  "homepage": "https://github.com/IvanZura/node-test#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
